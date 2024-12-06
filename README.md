@@ -1,8 +1,7 @@
 # Frontend Engineering Specialist
 
 ### Education
-Bachelor of Science in Computer Science, 
-English Minor
+Bachelor of Science in Computer Science, English Minor _ _(Harding University, 2015)_ _
 
 ### Work Experience
 **Senior Software Engineer @ ConsumerAffairs** 2018-2024
@@ -25,13 +24,13 @@ and functional teams
 - Optimized performance for data analysis by 10%
 
 ### Certifications
-Leadership
-Emotional Intelligence
-Better Business Writing Skills
-Github Copilot
-React Testing Library and Jest
-Agile and SAFe Methodologies Certificate
-IBM Enterprise Service Bus Certificate
+- Leadership
+- Emotional Intelligence
+- Better Business Writing Skills
+- Github Copilot
+- React Testing Library and Jest
+- Agile and SAFe Methodologies Certificate
+- IBM Enterprise Service Bus Certificate
 
 ### Areas of Expertise
 - Web Development
