@@ -1,7 +1,7 @@
 # Frontend Engineering Specialist
 
 ### Education
-Bachelor of Science in Computer Science, English Minor _ _(Harding University, 2015)_ _
+Bachelor of Science in Computer Science, English Minor _(Harding University, 2015)_
 
 ### Work Experience
 **Senior Software Engineer @ ConsumerAffairs** 2018-2024
